@@ -58,5 +58,5 @@ preserved and stays green in the staging area so you can fix it and commit it ag
 
 
 
-This edit will be reversed using git restore
+
 
