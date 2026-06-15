@@ -29,3 +29,5 @@ the terminal shows a success message that a new brach tracking relation has been
 *Example* - git pull origin main
 *Expected outcome* - The terminal will show the files pulled down with the number of lines that were
 added or changed. It also shows that it unpacked objects.
+
+.
