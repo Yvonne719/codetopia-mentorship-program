@@ -1,0 +1,9 @@
+- Linked my local repo to my remote repo using git remote add origin 
+- pushed files to the remote repo using git push -u origin main
+- Took screenshots of before and after push and the github repo.
+- Used git pull origin main to pull recent changes from github to my local repo
+- took screenshots of before and after pull and also of the updated file
+- Pushed week 1 and week 2 folders to github
+- Made an edit in drills.md on github using the web editor.
+- Pulled the changes to my local repo
+- Verified synchronization with the success message and the update in the local file. 
